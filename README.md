@@ -1,35 +1,49 @@
-# Hi, I'm Ahmed Mahrous 👋
+<h1 align="center">Hi, I'm Ahmed Mahrous 👋</h1>
 
-### AI Student | Computer Science | Software Engineering
+<p align="center">
+  Artificial Intelligence student building a strong foundation in
+  <b>Computer Science</b> and <b>Software Engineering</b>,
+  with a current focus on <b>Front-End Development</b>.
+</p>
 
-🎓 I'm a **3rd-year Artificial Intelligence student**, building a strong foundation in **Computer Science** alongside my academic studies.
+---
 
-💻 My current focus is **Software Engineering**, with an interest in **Front-End Development** and modern web technologies.
+### About Me
 
-🌐 **Front-End:** HTML, CSS, JavaScript, Bootstrap
-⚛️ **Frameworks:** Currently learning React
-☕ **Programming:** Java, Python
-🗄️ **Database:** MySQL, SQL
-🧠 **Interests:** Software Engineering, Problem Solving, Artificial Intelligence
+* 🎓 3rd-year student specializing in **Artificial Intelligence**
+* 💻 Building a broader foundation in **Computer Science** alongside my academic studies
+* ⚙️ Developing my skills in **Software Engineering**
+* 🖥️ Currently focused on **Front-End Development**
+* 🌱 Currently learning **React**
+* 🚀 Building practical projects to apply what I learn
 
-🌱 I'm continuously learning, building practical projects, and expanding my knowledge across different areas of software development.
+---
 
-🚀 My goal is to build a strong software engineering foundation and grow into a versatile developer while continuing to explore the intersection between **Software Development and AI**.
+### 🛠️ Skills
 
-## 🛠 Tech Stack
+**Front-End Development**
 
-### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+**Frameworks**
 
-### Programming
+![React](https://img.shields.io/badge/React-Currently%20Learning-61DAFB?style=flat\&logo=react\&logoColor=black)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+**Programming**
 
-### Database
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+**Database**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+I build practical projects across **Web Development, Software Engineering, and Data** to strengthen my technical skills and apply what I learn.
